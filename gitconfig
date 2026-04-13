@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = eudecindy@gmail.com
+	name = Cindy Eude
